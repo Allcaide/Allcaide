@@ -4,8 +4,9 @@
 **`FullStack Developer`**
 <p>
 My name is Luís Alcaide. I hold an MSc in Chemical Engineering and currently work as a Compliance and Monitoring Engineer in the aviation industry. My passion for coding began during a year I spent in Computer Science back in 2019, and since 2024 I've been seriously investing in that interest.
-I’ve completed Harvard’s CS50x – Introduction to Computer Science, and I’m currently focused on becoming a skilled full-stack developer. I’ve also finished the course “Solidity: Beginner to Intermediate Smart Contracts” by CryptoZombies, which gave me hands-on experience in blockchain and smart contract development—an area I’m eager to explore further in the coming years.
-It might seem like a mix of different fields—but life’s short, so why not follow what truly excites you?
+I’ve completed Harvard’s CS50x – Introduction to Computer Science, and I’m currently focused on becoming a skilled full-stack developer. 
+<p>I’ve also finished the course “Solidity: Beginner to Intermediate Smart Contracts” by CryptoZombies, which gave me hands-on experience in blockchain and smart contract development—an area I’m eager to explore further in the coming years.
+It might seem like a mix of different fields—but life’s short, so why not follow what truly excites you?</p>
 </p>
 
 Also a runner, kinda a footballer, and the funny guy in my spare time.
