@@ -99,7 +99,7 @@ Also a runner, kinda a footballer, and the funny guy in my spare time.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allcaide&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allcaide&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
   />
 
 </p>
