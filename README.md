@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Luís Alcaide
 
-**`FullStack Developer`**
+**`Data Engineer / Developer`**
 <p>
 My name is Luís Alcaide. I hold an MSc in Chemical Engineering and currently work as a Compliance and Monitoring Engineer in the aviation industry. My passion for coding began during a year I spent in Computer Science back in 2019, and since 2024 I've been seriously investing in that interest.
 I’ve completed Harvard’s CS50x – Introduction to Computer Science, and I’m currently focused on becoming a skilled full-stack developer. 
